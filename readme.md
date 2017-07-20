@@ -2,7 +2,7 @@
 
 ![Screencap](http://i.imgur.com/zOaHhuO.gif)
 
-Usage: `python winmine_exe.py [amount of games in to play, 1 by default]`
+Usage: `python winmine_exe.py [amount of games to play, 1 by default]`
 
 How to stop ~~the machine uprising~~ this app's control of your cursor:
 * **Caps lock:** no new games will be played if it is on
